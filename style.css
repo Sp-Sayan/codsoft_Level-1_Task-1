@@ -1956,7 +1956,7 @@
         text-decoration: none;
         text-transform: uppercase;
         border: 2px solid black;
-        border-radius: 0px;
+        border-radius: 10px;
         color: #000000;
         transition: all 1s;
     }
@@ -2033,7 +2033,7 @@
         text-decoration: none;
         text-transform: uppercase;
         border: 2px solid black;
-        border-radius: 0px;
+        border-radius: 10px;
         color: #000000;
         transition: all 1s;
     }
@@ -2110,7 +2110,7 @@
         text-decoration: none;
         text-transform: uppercase;
         border: 2px solid black;
-        border-radius: 0px;
+        border-radius: 10px;
         color: #000000;
         transition: all 1s;
     }
