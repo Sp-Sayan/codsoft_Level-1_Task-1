@@ -1422,7 +1422,7 @@
         width: 100%;
     }
     .pic:hover{
-        top: -65vh;
+        top: -50vh;
         left: 55vw;
         transform: rotateY(-40deg) scaleY(1.0);
         box-shadow: 15px 5px 20px black;  
