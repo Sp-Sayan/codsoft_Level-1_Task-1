@@ -1332,7 +1332,7 @@
     }
     
     .sec-1{
-        height: calc(80vh);
+        height: calc(90vh);
         width: 100%;
         background-color: #199282;
         mix-blend-mode: lighten;
