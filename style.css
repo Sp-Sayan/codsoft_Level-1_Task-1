@@ -1527,7 +1527,7 @@
     }
     .school-info > p{
         margin-top: 5%;
-        font-size: 0.7em;
+        font-size: 0.6em;
         font-family: 'Times New Roman', Times, serif;
     }
     .school:hover{
@@ -1540,7 +1540,7 @@
     .school:hover img{
         top: 0;
         left: 10vw;
-        height: 20vh;
+        height: 10vh;
         width: 20vw;
     }
     .clg{
@@ -1594,7 +1594,7 @@
         text-transform: capitalize;
     }
     .clg-info > p:nth-child(3){
-        font-size: 0.8em;
+        font-size: 0.6em;
         margin-top: 8%;
     }
     .clg:hover{
