@@ -1183,7 +1183,7 @@
     font-size: 1.2em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-@media only screen and (max-width: 440px){
+@media only screen and (max-width: 600px){
     .divider1{
         margin-top: 50vh;
         position: relative;
