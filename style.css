@@ -239,7 +239,7 @@
     font-style: italic;
     color: black;
     font-weight: 900;
-    font-family: cursive;
+    font-family: 'Kanit', sans-serif;
 }
 .info>a{
     position: relative;
