@@ -385,6 +385,7 @@
 }
 .school-info > p{
     margin-top: 5%;
+    font-family: 'Times New Roman', Times, serif;
 }
 .school:hover{
     box-shadow: 5px 10px 20px aqua;
@@ -441,7 +442,9 @@
 }
 .clg-info > p:nth-child(2){
     font-size: 1em;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-transform: uppercase;
 }
 .clg-info > p:nth-child(3){
     margin-top: 3%;
@@ -1524,6 +1527,7 @@
     .school-info > p{
         margin-top: 5%;
         font-size: 0.7em;
+        font-family: 'Times New Roman', Times, serif;
     }
     .school:hover{
         box-shadow: 5px 10px 10px aqua;
@@ -1583,7 +1587,7 @@
     }
     .clg-info > p:nth-child(2){
         font-size: 0.7em;
-        font-family: fantasy;
+        font-family: 'Times New Roman', Times, serif;
     }
     .clg-info > p:nth-child(3){
         font-size: 0.8em;
