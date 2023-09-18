@@ -1519,8 +1519,9 @@
     .school-info > a{
         text-transform: uppercase;
         line-height: 1;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 1em;
+        font-family: 'Kanit', sans-serif;
+        font-size: 0.8em;
+        font-weight: 800;
         text-decoration: none;
         color: black;
     }
@@ -1580,18 +1581,21 @@
     .clg-info > a{
         text-transform: uppercase;
         line-height: 1;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 1em;
+        font-family: 'Kanit', sans-serif;
+        font-size: 0.8em;
+        font-weight: 800;
         text-decoration: none;
         color: black;
     }
     .clg-info > p:nth-child(2){
+        margin-top: 5%;
         font-size: 0.7em;
         font-family: 'Times New Roman', Times, serif;
+        text-transform: capitalize;
     }
     .clg-info > p:nth-child(3){
         font-size: 0.8em;
-        margin-top: 2%;
+        margin-top: 8%;
     }
     .clg:hover{
         box-shadow: 5px 10px 10px aqua;
