@@ -1405,7 +1405,7 @@
     }
     .pic{
         position: relative;
-        top: -50vh;
+        top: -60vh;
         left: 55vw;
         height:30vh;
         width: 40vw;    
@@ -1422,7 +1422,7 @@
         width: 100%;
     }
     .pic:hover{
-        top: -50vh;
+        top: -60vh;
         left: 55vw;
         transform: rotateY(-40deg) scaleY(1.0);
         box-shadow: 15px 5px 20px black;  
